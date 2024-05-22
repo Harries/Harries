@@ -1,7 +1,7 @@
 ### Yoo, I'm Harries 👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Harries)
-[![Medium]()](https://medium.com/@)
+[![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Fjxausea&query=count&color=12100e&label=Medium&labelColor=03a87c&logo=medium&suffix=+follows&cacheSeconds=3600)](https://medium.com/@jxausea)
 
 - 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python.
