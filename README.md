@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FHarries&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Harries)
 [![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Fjxausea&query=count&color=12100e&label=Medium&labelColor=03a87c&logo=medium&suffix=+111&cacheSeconds=3600)](https://medium.com/@jxausea)
-[![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F131597124767479&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/131597124767479)
+
 
 - 🍻 A full stack developer
 - ⚡ Java / Python.
