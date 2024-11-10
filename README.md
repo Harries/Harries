@@ -1,4 +1,5 @@
 ### Yoo, I'm Harries 👋
+[![掘金]()](https://juejin.cn/user/131597124767479)
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FHarries&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Harries)
 [![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Fjxausea&query=count&color=12100e&label=Medium&labelColor=03a87c&logo=medium&suffix=+111&cacheSeconds=3600)](https://medium.com/@jxausea)
