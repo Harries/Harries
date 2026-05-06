@@ -25,7 +25,6 @@ Feel free to explore — and if something is useful to you, that’s already a w
 - [flexes.work](https://flexes.work) — Remote jobs and flexible work opportunities
 - [jxj.ai](https://jxj.ai) — AI tools and experiments around automation
 - [linguadiary.com](https://linguadiary.com) — Language learning and personal journaling app
-- [liujingxi.art](https://liujingxi.art) — Personal art and creative portfolio
 - [referralany.com](https://referralany.com) — Referral and affiliate system infrastructure
 - [skills.lc](https://skills.lc) — Open ecosystem for AI agent skills
 - [startfast.dev](https://startfast.dev) — Next.js SaaS starter kit for rapid launches
