@@ -20,28 +20,20 @@ Everything here is built and iterated independently.
 Feel free to explore — and if something is useful to you, that’s already a win.
 
 - [59.lc](https://59.lc) — Short link and experimental product playground
-- [59et.com](https://59et.com) — Core domain for personal projects and experiments
 - [aialpha.trade](https://aialpha.trade) — AI-driven trading ideas and strategy exploration
 - [et59.com](https://et59.com) — Lightweight tools and utility experiments
-- [exceltoimage.online](https://exceltoimage.online) — Convert Excel data into shareable images
 - [flexes.work](https://flexes.work) — Remote jobs and flexible work opportunities
-- [giffgaff.gg](https://giffgaff.gg) — Fun tools and side projects hub
 - [jxj.ai](https://jxj.ai) — AI tools and experiments around automation
 - [linguadiary.com](https://linguadiary.com) — Language learning and personal journaling app
 - [liujingxi.art](https://liujingxi.art) — Personal art and creative portfolio
-- [qw.do](https://qw.do) — Minimalist short links and quick tools
 - [referralany.com](https://referralany.com) — Referral and affiliate system infrastructure
 - [skills.lc](https://skills.lc) — Open ecosystem for AI agent skills
 - [startfast.dev](https://startfast.dev) — Next.js SaaS starter kit for rapid launches
-- [thecards.us](https://thecards.us) — Digital cards and lightweight tools
 - [toolhub.sbs](https://toolhub.sbs) — Collection of useful online tools
 - [tryapi.dev](https://tryapi.dev) — API testing and developer playground
 - [yizhan.club](https://yizhan.club) — AI tools directory and discovery platform
 - [snapmentor](https://snapmentor.com) — AI-powered photo scoring and feedback
 - [Harries.blog](https://harries.blog) — Personal blog on tech, products, and growth
-- [8hzp.com](https://8hzp.com) — Experimental projects and niche tools
-- [Maxap.cn](https://maxap.cn) — Internal tools and technical experiments
-- [Yuntusuo.com](https://yuntusuo.com) — Cloud tools and utilities
 - [Talktg.com](https://talktg.com) — Turn Telegram into your website help desk
 - [Issafesite.com](https://issafesite.com) — Website safety and diagnostics tools
 - [appscreenshotcreator.com](https://appscreenshotcreator.com) — Create App Store & Play screenshots in minutes
