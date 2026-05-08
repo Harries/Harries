@@ -18,7 +18,6 @@ Feel free to explore — and if something is useful to you, that’s already a w
 - [aialpha.trade](https://aialpha.trade) — AI-driven trading ideas and strategy exploration
 - [et59.com](https://et59.com) — Lightweight tools and utility experiments
 - [flexes.work](https://flexes.work) — Remote jobs and flexible work opportunities
-- [jxj.ai](https://jxj.ai) — AI tools and experiments around automation
 - [linguadiary.com](https://linguadiary.com) — Language learning and personal journaling app
 - [referralany.com](https://referralany.com) — Referral and affiliate system infrastructure
 - [skills.lc](https://skills.lc) — Open ecosystem for AI agent skills
