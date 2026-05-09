@@ -26,7 +26,6 @@ Feel free to explore — and if something is useful to you, that’s already a w
 - [tryapi.dev](https://tryapi.dev) — API testing and developer playground
 - [yizhan.club](https://yizhan.club) — AI tools directory and discovery platform
 - [snapmentor](https://snapmentor.com) — AI-powered photo scoring and feedback
-- [Harries.blog](https://harries.blog) — Personal blog on tech, products, and growth
 - [Talktg.com](https://talktg.com) — Turn Telegram into your website help desk
 - [Issafesite.com](https://issafesite.com) — Website safety and diagnostics tools
 - [appscreenshotcreator.com](https://appscreenshotcreator.com) — Create App Store & Play screenshots in minutes
