@@ -29,4 +29,5 @@ Feel free to explore — and if something is useful to you, that’s already a w
 - [Talktg.com](https://talktg.com) — Turn Telegram into your website help desk
 - [Issafesite.com](https://issafesite.com) — Website safety and diagnostics tools
 - [appscreenshotcreator.com](https://appscreenshotcreator.com) — Create App Store & Play screenshots in minutes
+- [appscreenshotcreator.com](https://jxj.ai/)— AI models hub
 
